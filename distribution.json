@@ -22,15 +22,13 @@
         {
           "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric Loader",
-          "type": "Fabric",
+          "type": "VersionManifest",
           "version": "0.15.11",
           "required": {
             "value": true
           },
           "artifact": {
             "size": 1184,
-            "MD5": "e0e2418e2eb0c8a66699d7a221f73ec2",
-            "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.json",
             "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.15.11/profile/json"
           },
           "subModules": []
