@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "astra-server",
+      "name": "아스트라야",
+      "description": "하마치 패브릭 모드 서버",
+      "icon": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/app/assets/images/SealCircle.png",
+      "version": "1.0.0",
+      "address": "25.15.241.114:25565",
+      "minecraftVersion": "1.20.1",
+      "mainServer": true,
+      "autoconnect": false,
+      "javaOptions": {
+        "suggestedMajor": 17,
+        "ram": {
+          "minimum": 3072,
+          "recommended": 4096
+        }
+      },
+      "modules": [
+        {
+          "id": "net.fabricmc.fabric-loader",
+          "name": "Fabric Loader",
+          "type": "fabric",
+          "version": "0.15.11",
+          "required": {
+            "value": true
+          }
+        }
+      ]
+    }
+  ]
+}
