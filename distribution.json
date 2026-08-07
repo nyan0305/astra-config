@@ -23,6 +23,9 @@
           "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric Loader",
           "type": "fabric",
+          "required": {
+            "value": true
+          },
           "artifact": {
             "size": 0,
             "MD5": "",
