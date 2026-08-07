@@ -28,10 +28,10 @@
             "value": true
           },
           "artifact": {
-            "size": 1327691,
-            "MD5": "4668b5a036ca471df4ef8a5dd9ce2703",
-            "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
+            "size": 1184,
+            "MD5": "e0e2418e2eb0c8a66699d7a221f73ec2",
+            "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.json",
+            "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.15.11/profile/json"
           },
           "subModules": []
         }
