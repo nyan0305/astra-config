@@ -25,6 +25,12 @@
           "type": "fabric",
           "required": {
             "value": true
+          },
+          "artifact": {
+            "size": 1327691,
+            "MD5": "4668b5a036ca471df4ef8a5dd9ce2703",
+            "path": "net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
           }
         }
       ]
