@@ -23,6 +23,7 @@
           "id": "net.fabricmc.fabric-loader",
           "name": "Fabric Loader",
           "type": "fabric",
+          "artifact": "net.fabricmc:fabric-loader:0.15.11",
           "version": "0.15.11",
           "required": {
             "value": true
