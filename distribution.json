@@ -26,7 +26,7 @@
       },
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.15.11",
+          "id": "fabric-loader-0.15.11",
           "name": "Fabric Loader",
           "type": "VersionManifest",
           "required": {
