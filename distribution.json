@@ -1,6 +1,11 @@
 {
   "version": "1.0.0",
   "rss": "",
+  "discord": {
+    "shortId": "astraya",
+    "largeImageText": "아스트라야",
+    "largeImageKey": "sealcircle"
+  },
   "servers": [
     {
       "id": "astraya",
@@ -21,7 +26,7 @@
       },
       "modules": [
         {
-          "id": "fabric-loader-0.15.11",
+          "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric Loader",
           "type": "Fabric",
           "required": {
