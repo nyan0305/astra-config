@@ -3,8 +3,8 @@
   "rss": "",
   "servers": [
     {
-      "id": "astra-server",
-      "name": "아스트라 서버",
+      "id": "astraya",
+      "name": "아스트라야",
       "description": "하마치 패브릭 모드 서버",
       "icon": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/app/assets/images/SealCircle.png",
       "version": "1.0.0",
