@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "rss": "",
   "discord": {
     "shortId": "astraya",
@@ -32,6 +32,11 @@
           "required": {
             "value": true,
             "def": true
+          },
+          "artifact": {
+            "size": 1406859,
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar",
+            "path": "libraries/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
           }
         }
       ]
