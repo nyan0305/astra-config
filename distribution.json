@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "rss": "",
   "discord": {
     "shortId": "astraya",
@@ -26,9 +26,9 @@
       },
       "modules": [
         {
-          "id": "fabric-loader-0.15.11-1.20.1",
+          "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric Loader",
-          "type": "VersionManifest",
+          "type": "Fabric",
           "required": {
             "value": true,
             "def": true
@@ -38,7 +38,22 @@
             "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.15.11/profile/json",
             "path": "versions/fabric-loader-0.15.11-1.20.1/fabric-loader-0.15.11-1.20.1.json"
           },
-          "subModules": []
+          "subModules": [
+            {
+              "id": "net.fabricmc:fabric-loader:0.15.11:json",
+              "name": "Fabric Loader Version Manifest",
+              "type": "VersionManifest",
+              "required": {
+                "value": true,
+                "def": true
+              },
+              "artifact": {
+                "size": 2849,
+                "url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.15.11/profile/json",
+                "path": "versions/fabric-loader-0.15.11-1.20.1/fabric-loader-0.15.11-1.20.1.json"
+              }
+            }
+          ]
         }
       ]
     }
