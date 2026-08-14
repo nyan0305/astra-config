@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "rss": "",
   "discord": {
     "shortId": "astraya",
@@ -26,7 +26,7 @@
       },
       "modules": [
         {
-          "id": "fabric-loader-0.15.11-1.20.1",
+          "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric Loader",
           "type": "Fabric",
           "required": {
@@ -40,7 +40,7 @@
           },
           "subModules": [
             {
-              "id": "fabric-loader-0.15.11-1.20.1-json",
+              "id": "net.fabricmc:fabric-loader-manifest:0.15.11",
               "name": "Fabric Loader Version Manifest",
               "type": "VersionManifest",
               "required": {
