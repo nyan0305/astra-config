@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "rss": "",
   "discord": {
     "shortId": "astraya",
@@ -26,7 +26,7 @@
       },
       "modules": [
         {
-          "id": "fabric-loader-0.15.11",
+          "id": "net.fabricmc:fabric-loader:0.15.11",
           "name": "Fabric Loader",
           "type": "Fabric",
           "required": {
@@ -54,7 +54,7 @@
               }
             },
             {
-              "id": "asm-9.6",
+              "id": "org.ow2.asm:asm:9.6",
               "name": "OW2 ASM",
               "type": "Library",
               "required": { "value": true, "def": true },
@@ -65,7 +65,7 @@
               }
             },
             {
-              "id": "asm-analysis-9.6",
+              "id": "org.ow2.asm:asm-analysis:9.6",
               "name": "OW2 ASM Analysis",
               "type": "Library",
               "required": { "value": true, "def": true },
@@ -76,7 +76,7 @@
               }
             },
             {
-              "id": "asm-commons-9.6",
+              "id": "org.ow2.asm:asm-commons:9.6",
               "name": "OW2 ASM Commons",
               "type": "Library",
               "required": { "value": true, "def": true },
@@ -87,7 +87,7 @@
               }
             },
             {
-              "id": "asm-tree-9.6",
+              "id": "org.ow2.asm:asm-tree:9.6",
               "name": "OW2 ASM Tree",
               "type": "Library",
               "required": { "value": true, "def": true },
@@ -98,7 +98,7 @@
               }
             },
             {
-              "id": "asm-util-9.6",
+              "id": "org.ow2.asm:asm-util:9.6",
               "name": "OW2 ASM Util",
               "type": "Library",
               "required": { "value": true, "def": true },
@@ -109,7 +109,7 @@
               }
             },
             {
-              "id": "sponge-mixin-0.13.3",
+              "id": "net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5",
               "name": "Sponge Mixin",
               "type": "Library",
               "required": { "value": true, "def": true },
